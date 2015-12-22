@@ -1,0 +1,12 @@
+.plant_overview_wrapper{padding: 10px 20px 20px 20px; width:96%;}
+.plant_overview_wrapper .content{font-size: 15px;letter-spacing: 0.5px;line-height: 1.5;margin-top: 20px;}
+.plant_overview_wrapper .content li{float: left; margin: 15px 50px 15px 50px; text-align: center; height:300px;}
+
+.plant_detail_wrapper{margin-left: auto; margin-right: auto; width: 960px; margin-top: 10px;}
+.plant_detail_wrapper .content .tree_content_wrapper{margin: 0 0 0 0; width: 99%; margin-left: auto; margin-right: auto;}
+.plant_detail_wrapper .content .tree_content_wrapper .title{margin: 0 auto; margin-top: 25px; width: 98%; height: 30px; line-height: 30px;}
+.plant_detail_wrapper .content .tree_content_wrapper .text{margin: 0 auto; margin-top: 20px; margin-bottom: 30px; width: 98%; font-size: 15px; line-height:1.5; letter-spacing: 0.5px;}
+
+.plant_detail_wrapper .content .tree_gallery_wrapper li {float: left; margin: 10px 30px 10px 30px; width:250px; height: 300px;}
+
+.ad_plant_bottom {margin-top: 10px; margin-left: auto; margin-right:auto;}

@@ -1,0 +1,28 @@
+.tree_overview{padding: 10px 20px 20px 20px; width:96%;}
+.tree_overview li{float: left; margin: 10px 30px 10px 10px; text-align: center; height:300px;}
+.tree_overview .breadcrumb{width: 100%; height: 30px; line-height: 30px;}
+.tree_overview .content{font-size: 18px;letter-spacing: 0.5px;line-height: 1.5;margin-top: 20px;}
+.tree_header{height: 140px;}
+
+.tree_detail{height:100%;}
+.tree_detail .leftside{
+  border-right: 1px solid #BDBA8C;
+  float: left;
+  margin: 0 0 0 0;
+  padding: 0 20px 15px 20px;
+  width: 75%;
+}
+
+.tree_detail .leftside .content{font-size: 18px;letter-spacing: 0.5px;line-height: 1.5;margin-top: 20px;}
+.tree_detail .leftside .breadcrumb{width: 100%; height: 30px; line-height: 30px;}
+
+.tree_detail .rightside{float: left;padding: 15px 0 0 15px; text-align: left; width: 20%;}
+.tree_detail .rightside li {margin: 0 0 20px 0}
+
+.tree_detail .middle_line{float: left; width:1px; height:100%; background-color: #BDBA8C;}
+
+/* Gallery */
+.gallery_overview{padding: 10px 20px 20px 20px; width:96%;}
+.gallery_overview li{float: left; margin: 10px 10px 10px 20px; text-align: center; width: 240px; height: 240px;}
+.gallery_overview .breadcrumb{width: 100%; height: 30px; line-height: 30px;}
+.gallery_overview .content{font-size: 18px;letter-spacing: 0.5px;line-height: 1.5;margin-top: 20px;}

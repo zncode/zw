@@ -1,0 +1,13 @@
+.article_overview_wrapper{}
+.article_detail_wrapper{margin-left: auto; margin-right: auto; width: 960px; margin-top: 10px;}
+
+.article_detail_wrapper .content .content_wrapper{margin: 10px 0 0 0; width: 100%; margin-left: auto; margin-right: auto; border: 1px solid #bbbb88; background-color: #F8F8F3;}
+.article_detail_wrapper .content .content_wrapper .title{margin: 30px 0 0 40px; width: 90%; height: 30px; line-height: 30px;}
+.article_detail_wrapper .content .content_wrapper .text{margin: 0 auto; margin-top: 10px; margin-bottom: 30px; width: 90%; font-size: 15px; line-height:1.5; letter-spacing: 0.5px;}
+.ad_article_bottom {margin-top: 10px; margin-left: auto; margin-right:auto;}
+.article_info{height: 30px; height-line: 30px; margin-left: auto; margin-right: auto; margin-bottom: 20px; width: 90%; border-top: 1px solid #e1e1e1; padding: 10px;}
+.article_info ul {float:left; margin:0; padding:0;margin-left: auto;}
+.article_info li {float:left; margin:0 80px 0 0;}
+
+.text_center {margin-left: auto; margin-right:auto; width: 700px; text-align:center; margin-top:0px; margin-bottom: 0px;}
+.text_left {margin-left: auto; margin-right:auto; width: 700px; text-align:left; margin-top:0px; margin-bottom: 0px;}
