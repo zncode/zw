@@ -60,6 +60,7 @@ function router($site){
     if($arg[0] == 'pagenotfound'){
         page_not_found();
     }
+    
     //后台
     if($url == '/abc'){
         

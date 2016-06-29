@@ -7,7 +7,7 @@ function login(){
     
     //检测登录
     if(!empty($_SESSION['admin'])){
-        page_goto('abc');
+        page_goto();
     }
     
     $data['title']      = '用户登录';
@@ -24,7 +24,7 @@ function login_submit(){
     if($username == 'zn' && $password == '111aaa'){
         $_SESSION['admin'] = true;
         
-        page_goto('abc');
+        page_goto();
     }else{
         exit('Login error, click here <a href="javascript:history.back(-1);">back</a> try again!');
     }
@@ -36,6 +36,6 @@ function login_submit(){
 function logout(){
      unset($_SESSION['admin']);  
      session_destroy();
-     page_goto('abc');
+     page_goto();
 }
 ?>
